@@ -1,5 +1,9 @@
 div{
-    background-color: red;
+    background-color: tomato;
     padding: 20px;
     margin-bottom: 10px;
+    border:coral 2px solid;
 }
+/* img{
+    border: 2px;
+} */
